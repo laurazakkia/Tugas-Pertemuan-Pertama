@@ -2,13 +2,13 @@
 
 ---
 
-## 📑 Daftar Isi
-- [📚 Inheritance](#inheritance)
-- [🛠 Set](#SetandGet)
+## Daftar Isi
+- [ Inheritance](#inheritance)
+- [ Set and Get](#SetandGet)
 
 ---
 
-## **Inheritance**
+## Inheritance
 Inheritance adalah sebuah kelas baru yang mewarisi perilaku dari kelas yang sudah ada. Kelas yang diturunkan disebut kelas induk, sedangkan kelas yang menerima penurunan disebut kelas anak. Dengan menerapkan inheritance, kelas anak dapat mengakses atribut dan metode dari kelas induk. Extends adalah keyword yang digunakan dalam penerapan konsep Inheritance. 
 
 ### Source Code Penerapan Inheritance dan Extends
@@ -31,7 +31,7 @@ Inheritance adalah sebuah kelas baru yang mewarisi perilaku dari kelas yang suda
 
 ---
 
-## **Set and Get**
+## Set and Get
 - Setter : Metode yang digunakan untuk mengatur nilai dari atribut.
 - Getter : Metode yang digunakan untuk mengambil nilai dari atribut.
 
